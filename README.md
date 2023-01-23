@@ -115,7 +115,7 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](Live Demo)
+- [Live Demo Link](https://ritadee.github.io/awesome-books-es6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -223,7 +223,7 @@ Example:
 
 > Mention all of the collaborators of this project.
 
- 👤**Chukwuemeka Ochuba**
+ 👤**Rita Nkem Daniel**
 
 - GitHub: [@RitaDee](https://github.com/RitaDee)
 - Twitter: [@durdana_dee](https://twitter.com/durdana_dee)
