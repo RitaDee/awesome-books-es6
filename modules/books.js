@@ -3,14 +3,14 @@ export default class Library {
     this.collection = [];
   }
 
-  addBook(Booktitle, Bookauthor) {
+  addBook = (Booktitle, Bookauthor) => {
     if (Booktitle && Bookauthor) {
       const newBook = { title: Booktitle, author: Bookauthor };
       this.collection.push(newBook);
     }
   }
 
-  removeBook(index) {
+  removeBook = (index) => {
     this.collection.splice(index, 1);
   }
 }
